@@ -1,0 +1,7 @@
+name: vep
+channels:
+  - bioconda
+dependencies:
+  - ensembl-vep
+  - bcftools
+  - tabix
