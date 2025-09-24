@@ -75,4 +75,4 @@ filtered/final_annotated.vcf.gz
 This project is part of the EhsanOmics initiative to build reproducible, open-source bioinformatics tools for genomic research.  
 Feel free to fork, contribute, or reach out for collaboration.
 
-linkedin.com/in/ehsanjarianie
+linkedin.com/in/ehsanJafarinia
