@@ -1,0 +1,5 @@
+name: sniffles
+channels:
+  - bioconda
+dependencies:
+  - sniffles
