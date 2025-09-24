@@ -1,0 +1,6 @@
+samples:
+  - sample1
+
+reference: reference/genome.fa
+vep_cache: vep_cache/
+threads: 8
