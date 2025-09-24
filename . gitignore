@@ -1,0 +1,27 @@
+# FASTQ and BAM files
+*.fastq
+*.fastq.gz
+*.bam
+*.bam.bai
+
+# VCF files
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Conda environment folders
+.env/
+.venv/
+
+# Snakemake cache and metadata
+.snakemake/
+*.snakemake
+
+# Annotation cache
+vep_cache/
