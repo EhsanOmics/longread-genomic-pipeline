@@ -75,4 +75,4 @@ filtered/final_annotated.vcf.gz
 This project is part of the EhsanOmics initiative to build reproducible, open-source bioinformatics tools for genomic research.  
 Feel free to fork, contribute, or reach out for collaboration.
 
-linkedin.com/in/ehsanJafarinia
+https://www.linkedin.com/posts/ehsanjafarinia_bioinformatics-genomics-longreadsequencing-activity-7376673153080717313-CH_e?utm_source=share&utm_medium=member_android&rcm=ACoAAEfgyyIBmT1V4KckCypdwpDXkpu2W5mb39o
